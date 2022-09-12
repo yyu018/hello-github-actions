@@ -1,0 +1,4 @@
+name: Post weblcome comment
+on:
+  pull_request:
+    types: [opened]
